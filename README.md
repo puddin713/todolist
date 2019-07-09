@@ -1,3 +1,3 @@
 # todolist
-...
-set index.html as startup page
+
+set index.html as start page
